@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Feedget banner" src=".github/banner.png" width="100%">
+  <img alt="Feedget banner" src="banner.png" width="100%">
 </p>
 
 ## 🔖 Layout
