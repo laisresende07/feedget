@@ -20,5 +20,5 @@
 ---
 
 <p align="center">
-  Feito com ♥ pela <a href="https://linkedin.com/in/lais-resende/" target="_blank"> Laís </a>
+  Feito com 💜 pela <a href="https://linkedin.com/in/lais-resende/" target="_blank"> Laís </a>
 </p>
